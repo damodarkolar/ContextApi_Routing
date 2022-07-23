@@ -48,19 +48,58 @@
   ],
   "cartItems": [
     {
-      "productId": 1,
-      "count": 3,
-      "id": 1
+      "id": 5,
+      "name": "Product 5",
+      "description": "Product 5 Description",
+      "count": 6
     },
     {
-      "productId": 2,
-      "count": 5,
-      "id": 2
+      "id": 6,
+      "name": "Product 6",
+      "description": "Product 6 Description",
+      "count": 6
     },
     {
-      "productId": 3,
-      "count": 1,
-      "id": 3
+      "id": 7,
+      "name": "Product 7",
+      "description": "Product 7 Description",
+      "count": 1
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "description": "Product 8 Description",
+      "count": 3
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "description": "Product 9 Description",
+      "count": 9
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "description": "Product 4 Description",
+      "count": 8
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Product 2 Description",
+      "count": 10
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Product 3 Description",
+      "count": 7
+    },
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Product 1 Description",
+      "count": 1
     }
   ]
 }
